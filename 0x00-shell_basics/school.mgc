@@ -1,3 +1,2 @@
 #!/bin/bash
-0	 string 	=school 	SCHOOL text
-!:mime text/x-school
+0    string    SCHOOL    School data file
